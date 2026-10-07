@@ -1,0 +1,12 @@
+# build output
+myar
+myar-debug
+*.o
+*.exe
+
+# test / sample archives
+*.myar
+
+# editor / OS
+.vscode/
+.DS_Store
